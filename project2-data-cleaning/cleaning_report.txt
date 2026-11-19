@@ -1,0 +1,14 @@
+CLEANING REPORT
+====================================
+Files merged                : 3
+Rows before cleaning        : 115
+Empty rows removed          : 3
+Duplicate rows removed      : 22
+Rows after cleaning         : 90
+
+Phone numbers standardized  : 97
+Invalid phone numbers       : 0 (left empty)
+Dates standardized          : 89
+Cells still empty           : 10
+
+Output file                 : clean_customers.xlsx
